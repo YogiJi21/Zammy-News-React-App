@@ -1,7 +1,7 @@
 # 📰 Zammy News React App
 
 <div align="center">
-  <img src="./src/components/image/zammy-news.png" />
+  <img src="./src/components/zammy.png" />
 </div>
 
 A dynamic news platform built with React and Google News API integration, providing real-time news updates categorized by topics, delivering a seamless news reading experience.
