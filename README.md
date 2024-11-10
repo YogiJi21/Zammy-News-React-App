@@ -1,70 +1,154 @@
-# Getting Started with Create React App
+# 📰 Zammy News React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div align="center">
+  <img src="./src/components/image/zammy-news.png" />
+</div>
 
-## Available Scripts
+A dynamic news platform built with React and Google News API integration, providing real-time news updates categorized by topics, delivering a seamless news reading experience.
+</br>
+</br>
 
-In the project directory, you can run:
+<div align="center">
+  <img src="https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_News_API-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</div>
 
-### `npm start`
+## 🌟 Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Real-time news updates from Google News API
+- Category-wise news filtering
+- Responsive news card layout
+- Topic-based news organization
+- Mobile-responsive design
+- User-friendly navigation interface
+- Quick search functionality
+- Bookmark favorite articles
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🚀 Getting Started
 
-### `npm test`
+Clone the repository and install dependencies:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```bash
+git clone https://github.com/YogiJi21/Zammy-News-React-App.git
+cd Zammy-News-React-App
+npm install
+```
 
-### `npm run build`
+Start the development server:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```bash
+npm start
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🛠️ Built With
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- [React](https://reactjs.org/) - Frontend framework
+- [Google News API](https://newsapi.org/) - News data integration
+- [React Router](https://reactrouter.com/) - Navigation
+- [Axios](https://axios-http.com/) - API requests
 
-### `npm run eject`
+## 📊 Key Features Explained
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### News Categories
+- Multiple news categories
+- Easy navigation between topics
+- Real-time updates
+- Trending news highlights
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Article Display
+- Clean, readable layout
+- Image optimization
+- Share functionality
+- Responsive design
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Search & Filter
+- Quick search capability
+- Category filtering
+- Date-based sorting
+- Relevance ranking
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### User Experience
+- Intuitive interface
+- Fast loading times
+- Bookmark functionality
+- Mobile optimization
 
-## Learn More
+# Hey there! 👋 I'm Yogesh Hingorani
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 👨‍💻 About Me
+- 🎓 MCA Graduate from VTU University, Bengaluru 
+- 💻 Post-Graduate Developer specializing in React.js, Next.js, and TypeScript
+- 🌟 Strong foundation in Python, Java, C, and C++
+- 📍 Based in Gurugram, India
+- 📧 Contact: yogi.hingorani21@gmail.com
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+## 🛠️ Tech Stack
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### Languages
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus" />
+</div>
 
-### Analyzing the Bundle Size
+### Frontend Development
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
+</div>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### Backend & Database
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />
+</div>
 
-### Making a Progressive Web App
+## 📊 GitHub Stats
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YogiJi21&theme=dark" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YogiJi21&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YogiJi21&layout=compact&theme=dark" alt="Top Languages" />
+</div>
 
-### Advanced Configuration
+## 🎓 Certifications
+- Full Stack Course (Johns Hopkins University, Coursera) - 2024
+- Web Development Internship (Embrizon Technologies) - 2024
+- Android O & Java Development Bootcamp - 2020
+- Ethical Hacking Workshop - 2019
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## 📫 Let's Connect!
+- LinkedIn: [Yogesh Hingorani](https://linkedin.com/in/yogesh-hingorani21)
+- Portfolio: [my-portfolio-next-app-five.vercel.app](https://my-portfolio-next-app-five.vercel.app/)
+- Email: yogi.hingorani21@gmail.com
 
-### Deployment
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+<div align="center">
+  <i>⭐️ From [YogiJi21](https://github.com/YogiJi21)</i>
+</div>
 
-### `npm run build` fails to minify
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<div align="center">
+  <i>Developed by Yogesh Hingorani</i>
+</div>
